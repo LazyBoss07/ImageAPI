@@ -2,3 +2,4 @@ gradio
 scikit-learn
 torchvision
 seaborn
+tensorflow
